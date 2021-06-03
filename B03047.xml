@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Tvvo ordinances of the Lords and Commons assembled in Parliament, the one, for compositions for warships in the Court of Wards and Liveries, and for signing of bills, and passing of them under the Great Seal. The other, for taking away the fifth part of delinquents [sic] estates, formerly granted by an ordinance of Parliament, for maintaining of the wives and children of delinquents.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03047</idno><idno type="EEBO-CITATION">52614655</idno>
+  <idno type="VID">175869</idno>
+  <idno type="EEBO-PROQUEST">2248531350</idno>
+  
+            <idno type="STC">Wing E2419</idno>
+            <idno type="STC">ESTC R200373</idno>
+            <idno type="OCLC">52614655</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B03047)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175869)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2753:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Tvvo ordinances of the Lords and Commons assembled in Parliament, the one, for compositions for warships in the Court of Wards and Liveries, and for signing of bills, and passing of them under the Great Seal. The other, for taking away the fifth part of delinquents [sic] estates, formerly granted by an ordinance of Parliament, for maintaining of the wives and children of delinquents.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Edward Husband ... and are to be sold at his shop ...,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Novemb. 7. 1645.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Ordered by the Commons assembled in Parliament, that this be forthwith printed and published. H. Elsynge Cler. Parl. D.Com."</note>
+                  <note>Text in black letter.</note>
+                  <note>Imperfect: print show-through with some loss of text.</note>
+                  <note>Bound and filmed as 7th item with 2753:6-2753:15.</note>
+                  <note>Reproduction of original in: Trinty College (Dublin, Ireland) Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175869:1"/>
+            <p>TVVO ORDINANCES OF THE Lords and Commons Assembled in PARLIAMENT, THE ONE, For Compositions for Wardships in the Court of Wards and Liveries, and for Signing of Bills, and passing of them under the Great Seal. THE OTHER, For taking away the Fifth part of Delinquents Estates, formerly granted by an Ordinance of Parliament, for maintaining of the Wives and Children of Delinquents.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>ORdered by the Commons assembled in Parliament, That this be forthwith printed and published.</p>
+                        <closer>
+                           <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>London, Printed for <hi>Edward Husband,</hi> Printer to the Honorable House of Commons, and are to be sold at his shop, at the sign of the Golden-Dragon neer the Inner-Temple, <hi>Novemb.</hi> 7. 1645.</p>
+         </div>
+      </front>
+      <body>
+         <div type="collection_of_ordinances">
+            <pb facs="tcp:175869:2"/>
+            <pb n="3" facs="tcp:175869:2"/>
+            <div type="ordinance">
+               <opener>
+                  <dateline>
+                     <date>Die Sabbathi, 1. Novembr. 1645.</date>
+                  </dateline>
+               </opener>
+               <head>An Ordinance of the Lords and Commons assembled in Parliament, for Compositions for VVardships in the Court of VVards and Liveries, and for Signing of Bills, and passing of them under the Great Seal.</head>
+               <p>
+                  <seg rend="decorInit">W</seg>Hereas divers Compositions have been heretofore made by sundry persons, with the Master and Councel of His Majesties Court of Wards and Li<g ref="char:EOLhyphen"/>veries at <hi>Westminster,</hi> for the Ward<g ref="char:EOLhyphen"/>ships of the Bodies of divers of His Majesties Wards; upon some of which Compositions, considerable Sums of money have been already paid, and others are to be paid; But in regard the Grants of the said Ward<g ref="char:EOLhyphen"/>ships are to passe under the great
+<pb n="4" facs="tcp:175869:3"/> Seal, by Bill Signed by His Maje<g ref="char:EOLhyphen"/>sty, which in these times of distraction cannot be obtained; By means where<g ref="char:EOLhyphen"/>of, the said persons who have already so compounded and paid their said moneys, are without the fruit of their said Compositions, And also aswell those which have compounded and have not yet paid, as others which are prepared to compound for severall Wardships, are for the rea<g ref="char:EOLhyphen"/>sons aforesaid, discouraged to make their severall Compositions and pay<g ref="char:EOLhyphen"/>ments with the said Master and Councell: The Lords and Commons assembled in Parliament, do therefore hereby Ordain and Declare, That all and every such Bill or Bills as hereafter shall be Signed by the Ma<g ref="char:EOLhyphen"/>ster and Clerk of the said Court of Wards and Liveries for the time be<g ref="char:EOLhyphen"/>ing, notwithstanding their not being Signed by His Majesty, shall be pas<g ref="char:EOLhyphen"/>sed under the great Seal in form usu<g ref="char:EOLhyphen"/>all. And the Commissioners of the
+<pb n="5" facs="tcp:175869:3"/> said great Seal for the time being, are hereby required and Authorised to passe Letters Patents in form usuall from time to time under the said great Seal unto the severall Com<g ref="char:EOLhyphen"/>mittees, or Grantees of the Maria<g ref="char:EOLhyphen"/>ges of the said respective Wards, ac<g ref="char:EOLhyphen"/>cording to the tenour and effect of the said Bills so Signed as aforesaid: And this Ordinance shall be their sufficient Warrant in that behalf; which Letters Patents so passed, shall be effectuall in Law, according to the tenour thereof, the not Sign<g ref="char:EOLhyphen"/>ing thereof by His Majesty notwith<g ref="char:EOLhyphen"/>standing. And it is also Ordained by the Lords and Commons aforesaid, That the Master and Councell of the said Court, shall proceed in all things belonging to the Iurisdiction of that Court according to Law.</p>
+               <closer>
+                  <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+               </closer>
+            </div>
+            <div type="ordinance">
+               <pb n="6" facs="tcp:175869:4"/>
+               <opener>
+                  <dateline>
+                     <date>8. Septembr. 1645.</date>
+                  </dateline>
+               </opener>
+               <head>An Ordinance of the Lords and Commons assembled in Parliament, For taking away the Fifth part of Delinquents Estates, formerly gran<g ref="char:EOLhyphen"/>ted by an Ordinance of Parliament, for maintaining of the VVives and Children of <hi>Delinquents.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">V</seg>VHereas by a late Ordinance of Sequestration it is a<g ref="char:EOLhyphen"/>mongst other things De<g ref="char:EOLhyphen"/>clared and Ordained, That the Committees of the se<g ref="char:EOLhyphen"/>verall counties shall have power to assign maintenance out of the Lands of Delinquents, to their severall Wives and Children, so as the same
+<pb n="7" facs="tcp:175869:4"/> exceed not the fifth part of the Lands or Goods so Sequestred: And where<g ref="char:EOLhyphen"/>as by occasion hereof, divers Wives and Children of Delinquents may resort hither, onely to obtain the said Fifth part, and may be ready to do ill offices to the Parliament; The Lords and Commons, to prevent the said mischief, and other of like na<g ref="char:EOLhyphen"/>ture, Do Ordain, That no Wife, Childe or Children of any Delin<g ref="char:EOLhyphen"/>quent, who shall come from their own Habitation into the Parliament Quarters, with or without their Fathers or Husbands, from the Kings Quarters, shall have, hold and injoy any Fifth part by the said Ordinance: And therefore they do Ordain, That all such Allowances hereafter to be made to such Wife or Children, shall be utterly void. And if any such Wife, Childe or Children shall return from the Kings Quar<g ref="char:EOLhyphen"/>ters, without leave of both Houses: The Deputy-Lieutenants and Com<g ref="char:EOLhyphen"/>mittees
+<pb n="8" facs="tcp:175869:5"/> of Parliament in the seve<g ref="char:EOLhyphen"/>rall counties, or any two of them, or any of them, are hereby authorised and required to take care, that they be commanded to return back into the Kings Quarters; And if they shall not return, upon command given to them by the Deputy-Lieutenants or Committee, or any two of them, they shall hereby have power to commit them, untill they shall give security for to return. And be it further Or<g ref="char:EOLhyphen"/>dained, That no Children of any De<g ref="char:EOLhyphen"/>linquents shall have any Fifth part, but such as shall be educated and brought up in the Protestant Re<g ref="char:EOLhyphen"/>ligion.</p>
+               <closer>
+                  <signed>H: Elsynge, Cler. Parl. D. Com.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
